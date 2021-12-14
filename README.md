@@ -1,1 +1,1 @@
-# my-own-game-1-saving-our-planet-
+# project-38-INFINTE-RUNNER-GAME
